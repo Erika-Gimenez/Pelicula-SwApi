@@ -51,7 +51,7 @@ Este proyecto permite al usuario interactuar con la API de SWAPI (Star Wars API)
 1. Crea una carpeta en tu ordenador y luego clona este repositorio:
    
    ```
-   https://github.com/Erika-Gimenez/Aplicacion-de-compras.git
+   https://github.com/Erika-Gimenez/Pelicula-SwApi.git
    
    ```
 2. Navega hasta la carpeta del proyecto.
